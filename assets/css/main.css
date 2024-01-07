@@ -4227,3 +4227,15 @@
 			}
 
 		}
+	
+	#footer.oculto {
+		display: none;
+	}
+	
+	#three.oculto {
+		display: none;
+	}
+	
+	#four.oculto {
+		display: none;
+	}
